@@ -1,0 +1,16 @@
+{
+  "metadados": {"fonte": "EXEMPLO FICTÍCIO, sem dados pessoais"},
+  "sessoes_estudo": [
+    {
+      "id_origem": "exemplo-1",
+      "data": "2026-10-18",
+      "materia": "Matemática",
+      "assunto": "Funções — exemplo de importação",
+      "duracao_minutos": 25,
+      "questoes_resolvidas": 3,
+      "acertos": 2,
+      "erros": 1,
+      "observacoes": "Registro fictício para testar o importador."
+    }
+  ]
+}
